@@ -1,0 +1,16 @@
+{
+  "name" : "NodeChatter",
+  "description" : "NodeChatter is a NodeJS demo for Community of Practice",
+  "version" : "0.0.1",
+  "scripts" : {
+	"start" : "node my_web_server.js"
+  },
+  "repository" : {
+	"type" : "",
+	"url" : ""
+  },
+  "dependencies" : {
+	"express" : "4.13.x"
+  },
+  "license" : "MIT"
+}
